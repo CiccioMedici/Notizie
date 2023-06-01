@@ -1,0 +1,38 @@
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    text-align: center;
+    color: #333;
+  }
+  
+  .category {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .article {
+    margin-bottom: 5px;
+  }
+  
+  .article a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .article a:hover {
+    color: #ff6600;
+  }
+  
